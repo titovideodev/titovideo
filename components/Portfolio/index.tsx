@@ -4,7 +4,7 @@ import styles from './Portfolio.module.css';
 const Portfolio = () => {
   return (
     <>
-      <section id="portfolio" className="pt-14 sm:pt-20 lg:pt-[130px]">
+      <section id="portfolio" className="pt-14 sm:pt-20 lg:pt-[80px]">
       <div className="px-4 xl:container">
         
         <div
@@ -83,7 +83,7 @@ const Portfolio = () => {
           </div>
 
           <div
-            className="wow fadeInUp w-full pt-10 text-center"
+            className="wow fadeInUp w-full pt-5 py-5 text-center"
             data-wow-delay=".2s"
           >
             <a
